@@ -88,6 +88,8 @@ body p {
 .links button:hover {
   background-color: var(--Green);
   color: var(--Grey-900);
+  cursor: pointer;
+  transition: all ease-in 0.3s;
 }
 
 /* footer style is here */
